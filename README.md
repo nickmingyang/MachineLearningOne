@@ -1,6 +1,10 @@
 # MachineLearningOne
 
 ## Installing Virtual Enviroment
+
+### Prerequisites
+- Ensure Python 3.9 is installed in your machine  
+### Instructions
 - Clone this repo in the desired directory
 - `cd` to the directory where you wish to save the env. To ensure that we don't accidentally upload the env to GitHub I recommend not creating the env in the same directory you cloned this git repo and having a separate directory exclusively for the env. 
 - Use the following command to create the env using Python 3.9 `Python3.9 -m venv <NameOfEnviroment>`
