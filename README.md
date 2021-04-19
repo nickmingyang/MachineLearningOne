@@ -15,7 +15,7 @@
 - Use `pip freeze` to ensure all packages are properly installed 
 ### Libraries installed
 - `scikit-learn==0.24.1`
-- `jupyter-server==1.6`
+- `jupyterlab==3.0.14`
 - `scipy==1.6.2`
 - `numpy==1.20.2`
 - `pandas==1.2.4`
